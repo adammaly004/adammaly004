@@ -4,7 +4,7 @@
 Im *Adam* ! :smiley: <br>
 Im a **Python** Developer. ... :wink: <br>
 Im *Really Intrested* in **Software Development**. :heart: <br>
-Feel Free For Asking Questions :kissing_heart: <br>
+Don't be afraid to ask or advise me :kissing_heart: <br>
 You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 
 **Gmail: adammaly004@gmail.com**
