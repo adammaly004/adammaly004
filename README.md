@@ -12,23 +12,23 @@ You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 <div style="display: flex;">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   
 </div>
 
 
 <br>
-![Adam's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adammaly004&theme=blue-green)
-<!--![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Chamepp&show_icons=true&theme=gotham) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chamepp&theme=gotham&layout=compact)](https://github.com/Chamepp/Chamepp)
+
+![Adam's github stats](https://github-readme-stats.vercel.app/api?username=adammaly004&show_icons=true&theme=gotham) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adammaly004&theme=gotham&layout=compact)](https://github.com/Chamepp/Chamepp)
 
 <br>
 
 > “Fix the Cause, Not the Symptom.”
 > -  Steve Maguire
 
-<br>-->
+<br>
 
 
 
