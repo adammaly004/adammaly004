@@ -19,7 +19,7 @@ You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 
 
 <br>
-https://github-readme-stats.vercel.app/api/top-langs/?username=adammaly004&theme=blue-green
+![Adam's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adammaly004&theme=blue-green)
 <!--![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Chamepp&show_icons=true&theme=gotham) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chamepp&theme=gotham&layout=compact)](https://github.com/Chamepp/Chamepp)
 
