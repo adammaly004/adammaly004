@@ -21,12 +21,11 @@ You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 <br>
 
 ![Adam's github stats](https://github-readme-stats.vercel.app/api?username=adammaly004&show_icons=true&theme=gotham) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adammaly004&theme=gotham&layout=compact)](https://github.com/Chamepp/Chamepp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adammaly004&theme=gotham&layout=compact)](https://github.com/adammaly004/adammaly004)
 
 <br>
 
-> “Fix the Cause, Not the Symptom.”
-> -  Steve Maguire
+
 
 <br>
 
