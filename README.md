@@ -2,7 +2,7 @@
 
 
 I'm *Adam* ! :smiley: <br>
-I am a **high school student** from the **Czech Republic** :books:�<br>
+I am a **high school student** from the **Czech Republic** :books:cz<br>
 I'm a **Python** Developer, ... :wink: <br>
 I'm *Really Intrested* in **Software Development**. :heart: <br>
 Apart from *programming*, I enjoy **sports** :bicyclist::runner::ski: <br>
