@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 
-Im *Adam* ! :smiley: <br>
-Im a **Python** Developer, ... :wink: <br>
-Im *Really Intrested* in **Software Development**. :heart: <br>
+I'm *Adam* ! :smiley: <br>
+I'm a **Python** Developer, ... :wink: <br>
+I'm *Really Intrested* in **Software Development**. :heart: <br>
+Apart from *programming*, I enjoy **sports** :bicyclist::runner::ski: <br>
 Don't be afraid to ask or advise me :kissing_heart: <br>
 You Can **Contact** Me by My **Gmail** Account Below 🤝 <br>
 
@@ -27,6 +28,8 @@ You Can **Contact** Me by My **Gmail** Account Below 🤝 <br>
 <br>
 
 
+> “The way to get started is to quit talking and begin doing. ”
+> - Walt Disney
 
 <br>
 
