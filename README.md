@@ -6,7 +6,7 @@ I am a **high school student** from the **Czech Republic** :books::pencil2:<br>
 I'm a **Python** Developer, ... :wink: <br>
 I'm *Really Intrested* in **Software Development**. :heart: <br>
 Apart from *programming*, I enjoy **sports** :bicyclist::runner::ski: <br>
-Don't be afraid to ask or advise me :kissing_heart: <br>
+Don't be afraid to *ask* or *advise* me :kissing_heart: <br>
 You Can **Contact** Me by My **Gmail** Account Below 🤝 <br>
 
 **Gmail: adammaly004@gmail.com**
